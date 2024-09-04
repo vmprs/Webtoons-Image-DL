@@ -1,7 +1,7 @@
 import requests
 
 # URL of the image
-url = "https://webtoon-phinf.pstatic.net/20181223_133/1545540580475SXbeO_JPEG/b748a7cf-e5bc-448b-8945-5a277b9ef486.jpg?type=q90"
+url = "insert url of the image here"
 
 # Make the HTTP request
 headers = {'Referer': 'http://www.webtoons.com/'}
